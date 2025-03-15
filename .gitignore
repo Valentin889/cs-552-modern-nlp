@@ -4,3 +4,5 @@
 *.csv
 SimLex-999
 wmt14_fr_en*
+*.json
+*.pt
