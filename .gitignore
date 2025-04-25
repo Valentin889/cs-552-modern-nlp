@@ -1,0 +1,9 @@
+*.zip
+*.csv
+SimLex-999
+wmt14_fr_en*
+*.json
+*.pt
+*.DS_Store
+*.ipynb_checkpoints
+*__pycache__

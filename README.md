@@ -43,7 +43,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 1</strong></td>
         <td>19 Feb <br />20 Feb</td>
-        <td>Introduction &#124; Building a simple neural classifier <a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201">[slides]</a> <br />Word embeddings </td>
+        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+1-2A+Introduction+%26+Simple+neural+classifier/0_ztiealbw/31346">video</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+3A+Word+Embeddings/0_tqc5u2u8/31346">video</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 14.5 - 14.6</a></li><li><a href="https://arxiv.org/abs/1301.3781">Efficient Estimation of Word Representations in Vector Space</a></li><li><a href="https://aclanthology.org/D14-1162">GloVe: Global Vectors for Word Representation</a></li><li><a href="https://aclanthology.org/Q17-1010">Enriching word vectors with subword information</a></li><li><a href="https://aclanthology.org/L18-1008">Advances in pre-training distributed word representations</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -57,7 +57,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 2</strong></td>
         <td>26 Feb <br />27 Feb</td>
-        <td>Classical LMs &#124; Neural LMs: Fixed Context Models <br />Neural LMs: RNNs </td>
+        <td>Classical LMs &#124; Neural LMs: Fixed Context Models  [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2024%5D+-+04.+Classical+Language+Models/0_ufdusu0v/31346">video p1</a>, <a href="https://mediaspace.epfl.ch/media/%5B2024%5D+-+05.+Language+ModelsA+Fixed-context+Neural+Models/0_cq4qpuii/31346">video p2</a> (Last year recordings)] <br />Neural LMs: RNNs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+6A+Recurrent+Neural+Networks/0_em4f6i76/31346"> video</a>] </td>
         <td>Suggested reading: <ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 6.1-6.4</a></li><li><a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></li><li><a href="https://proceedings.mlr.press/v28/pascanu13.html">On the difficulty of training recurrent neural networks</a></li><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 18.3, 18.4</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -71,7 +71,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 3</strong></td>
         <td>5 Mar <br />6 Mar</td>
-        <td>Sequence-to-sequence Models &#124; Transformers <br />Pretraining: GPT </td>
+        <td>Sequence-to-sequence Models [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+7-8A+Sequence+to+Sequence+Models+%26+Transformers/0_71gviryj/31346">video</a>] &#124; Transformers <br />Pretraining: GPT [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+9A+Transformers+Pretraining/0_zb407gx4/31346">video</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a></li><li><a href="https://aclanthology.org/W18-2509">The Annotated Transformer</a></li><li><a href="https://jalammar.github.io/illustrated-transformer/">The illustrated transformer</a></li><li>GPT: <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving language understanding by generative pre-training</a></li><li>GPT2: <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf">Language Models are Unsupervised Multitask Learners</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -85,7 +85,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 4</strong></td>
         <td>12 Mar <br />13 Mar</td>
-        <td><strong>[Online only]</strong> Pretraining: BERT &#124; Transfer Learning <br /> Pretraining: T5 </td>
+        <td><strong>[Online only]</strong> Pretraining: BERT &#124; Transfer Learning <br /> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+10A+Pretrained+RepresentationsA+GPT+%2B+ELMo+%2B+BERT/0_hknulgdy/31346">video</a>] Pretraining: BART + T5 [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D++11A+Pretrained+RepresentationsA+BART+%2B+T5/0_dh60890m/31346"> video</a>]</td>
         <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -98,8 +98,8 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
     <tr>
         <td><strong>Week 5</strong></td>
-        <td>19 Mar <br />20 Mar</td>
-        <td>Transfer Learning: Dataset Biases <br />Generation: Task </td>
+        <td>19 Mar</td>
+        <td>Transfer Learning: Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+13+%2B+14A+Transfer+LearningA+Dataset+Biases/0_ns2zrpvy/31346">video</a>] </td>
         <td>Suggested reading: -</td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -113,7 +113,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 6</strong></td>
         <td>26 Mar <br />27 Mar</td>
-        <td>Text Generation: Decoding  & Training  <br />Text Generation: Evaluation </td>
+        <td>Text Generation: Decoding  & Training  [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+16-17A+Natural+Language+GenerationA+Task%2C+Decoding+%26+Training/0_ekiqgbt5/31346">video</a>]<br />Text Generation: Evaluation [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+18A+Natural+Language+GenerationA+Evaluation/0_jtt8c9y2/31346">video</a>]</td>
         <td>Suggested reading: <ul><li>Decoding: <a href="https://arxiv.org/abs/1503.03535">On Using Monolingual Corpora in Neural Machine Translation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1609.08144">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1604.01729">Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text</a></li><li>Decoding: <a href="https://arxiv.org/abs/1510.03055">A Diversity-Promoting Objective Function for Neural Conversation Models</a></li><li>Decoding: <a href="https://arxiv.org/abs/1705.04304">A Deep Reinforced Model for Abstractive Summarization</a></li><li>Decoding: <a href="https://arxiv.org/abs/1803.10357">Deep Communicating Agents for Abstractive Summarization</a></li><li>Decoding: <a href="https://arxiv.org/abs/1805.06087">Learning to Write with Cooperative Discriminators</a></li><li>Decoding: <a href="https://arxiv.org/abs/1805.04833">Hierarchical Neural Story Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1907.01272">Discourse Understanding and Factual Consistency in Abstractive Summarization</a></li><li>Decoding: <a href="https://arxiv.org/abs/1912.02164">Plug and Play Language Models: A Simple Approach to Controlled Text Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a></li><li>Decoding: <a href="https://arxiv.org/abs/1911.00172">Generalization through Memorization: Nearest Neighbor Language Models</a></li><li>Training: <a href="https://arxiv.org/abs/1506.03099">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a></li><li>Training: <a href="https://arxiv.org/abs/1511.06732">Sequence Level Training with Recurrent Neural Networks</a></li><li>Training: <a href="https://arxiv.org/abs/1609.08144"> Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li><li>Training: <a href="https://arxiv.org/abs/1704.03899">Deep Reinforcement Learning-based Image Captioning with Embedding Reward</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00563">Self-critical Sequence Training for Image Captioning</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00370">Improved Image Captioning via Policy Gradient Optimization of SPIDEr</a></li><li>Training: <a href="https://arxiv.org/abs/1703.10931">Sentence Simplification with Deep Reinforcement Learning</a></li><li>Training: <a href="https://arxiv.org/abs/1705.04304">A Deep Reinforced Model for Abstractive Summarization</a></li><li>Training: <a href="https://arxiv.org/abs/1803.10357">Deep Communicating Agents for Abstractive Summarization</a></li><li>Training: <a href="https://arxiv.org/abs/1805.03766">Discourse-Aware Neural Rewards for Coherent Text Generation</a></li><li>Training: <a href="https://arxiv.org/abs/1805.03162">Polite Dialogue Generation Without Parallel Data</a></li><li>Training: <a href="https://arxiv.org/abs/1711.00279">Paraphrase Generation with Deep Reinforcement Learning</a></li><li>Training: <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -125,9 +125,9 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
     </tr>
     <tr>
-        <td><strong>Week 7 / Week 8</strong></td>
-        <td>2 Apr / 9 Apr <br />3 Apr / 10 Apr</td>
-        <td><strong>Midterm</strong> / <strong>[Online only]</strong> LLMs: In-context Learning & Instruction Tuning <br/> No Class / Project Description</td>
+        <td><strong>Week 7</strong></td>
+        <td>2 Apr <br />3 Apr</td>
+        <td>LLMs: In-context Learning & Instruction Tuning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+19A+In-context+Learning%2C+Instruction+Tuning%2C+and+Preference+Optimisation/0_t153vbng/31346">video</a>]<br/> <strong>No Class</strong></td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -138,11 +138,25 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
+        <tr>
+        <td><strong>Week 8</strong></td>
+        <td>9 Apr <br />10 Apr</td>
+        <td><strong>Midterm</strong> <br/> Project Description [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+Project+description/0_9ag3yup3/31346">video</a>]</td>
+        <td></td>
+        <td>Antoine Bosselut</td>
+    </tr>
     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
         <td><strong>Week 9</strong></td>
-        <td>16 Apr <br />17 Apr</td>
-        <td><strong>[Online only]</strong>Scaling laws &#124; LLM Efficiency <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
+        <td>16 Apr May <br />17 Apr</td>
+        <td>Tokenization + Retrieval-Augmented LLMs &#124; Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+22-24A+Tokenization+%2B+Question+Answering+%2B+Reading+comprehension/0_1tb10eik/31346">video</a>]<br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
@@ -159,7 +173,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
-    <tr>
+        <tr>
         <td></td>
         <td></td>
         <td></td>
@@ -169,9 +183,19 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
-        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
-        <td>Anna Sotnikova</td>
+        <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: <ul>
+            <li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
+            <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
+            <li><a href="https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html">LLAVA: Visual Instruction Tuning</a></li>
+            <li><a href="https://arxiv.org/pdf/2412.05271">InternVL2.5: Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling</a></li>
+            <li><a href="https://arxiv.org/pdf/2307.06281">MMBench: Is Your Multi-modal Model an All-around Player?</a></li>
+            <li><a href="https://arxiv.org/pdf/2404.12390">BLINK: Multimodal Large Language Models Can See but Not Perceive</a></li>
+            <li><a href="https://arxiv.org/pdf/2311.12793">ShareGPT4V: Improving Large Multi-Modal Models with Better Captions</a></li>
+            <li><a href="https://arxiv.org/pdf/2306.15195">Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic</a></li>
+            <li><a href="https://arxiv.org/pdf/2405.16700">Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs</a></li>
+            </ul></td>
+        <td>Syrielle Montariol <br />Antoine Bosselut</td>
     </tr>
     <tr>
         <td></td>
@@ -180,11 +204,11 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
-    <tr>
+        <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Tokenization &#124; Multilingual LMs <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
+        <td>Scaling laws &#124; LLM Efficiency <br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
@@ -197,6 +221,20 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 12</strong></td>
         <td>14 May <br />15 May</td>
+        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
+        <td>Anna Sotnikova</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong>Week 13</strong></td>
+        <td>21 May <br />22 May</td>
         <td>Interpretability <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: -</td>
         <td>Gail Weiss</td>
@@ -209,26 +247,13 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
     </tr>
     <tr>
-        <td><strong>Week 13</strong></td>
-        <td>21 May <br />22 May</td>
-        <td>Retrieval-Augmented LLMs &#124; Agents <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
-        <td>Antoine Bosselut</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td><strong>Week 14</strong></td>
         <td>28 May <br />29 May</td>
-        <td>Multimodality <br />Looking forward</td>
-        <td>Suggested reading: -</td>
-        <td>Syrielle Montariol <br />Antoine Bosselut</td>
+        <td>Tokenization &#124; Multilingual LMs + Looking forward <br /><strong>Holiday</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
+        <td>Antoine Bosselut</td>
     </tr>
+
 </table>
 
 
@@ -249,7 +274,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 |             |         |                                                                                           |                                                                     |
 | **Week 6**  | 27 Mar  |  Generation                                                                               |  Madhur Panwar                                                      |
 |             |         |                                                                                           |                                                                     |
-| **Week 7/8**|         |  ***MIDTERM***  /  In-context Learning - GPT-3                                           |  Mete Ismayilzad                                                    |  
+| **Week 7/8**|         |  ***MIDTERM***  /  In-context Learning - GPT-3                                            |  Mete Ismayilzad                                                    |  
 
 
 
@@ -285,22 +310,29 @@ More details will be announced in the next weeks.
 
 
 ### Project (70%):
-The project will be divided into 2 milestones and a final submission. Each milestone will be worth 15% of the final grade with the remaining 30% being allocated to the final report. Each team will be supervised by one of the course TAs or AEs. 
+The project will be divided into the project proposal (1%), 2 milestones (19%) and a final submission (50%). Each team will be supervised by one of the course TAs or AEs. 
 
 More details on the content of the project and the deliverables of each milestone will be released at a later date.
 <!-- Registration details can be found in the announcement [here][1p]. -->
 
+#### Proposal
+- Release Date: 16 Apr 2025
+- **Due Date: 4 May 2025**
+
 #### Milestone 1:
-- Due: 4 May 2025
+- Release Date: 28 Apr 2025
+- **Due Date: 11 May 2025**
 
 #### Milestone 2:
 <!-- - Milestone 2 parameters can be found in the [project description][2p]. -->
-- Due: 18 May 2025
+- Release Date: 12 May 2025
+- **Due Date: 25 May 2025**
 
 #### Final Deliverable:
-- The final report, code, and date will be due on June 8th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends.
+_The final report, code, and date will be due on June 8th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends._
 <!-- - More details can be found in the [project description][2p]. -->
-- Due: 8 June 2025
+- Release Date: 25 May 2025
+- **Due Date: 08 Jun 2025**
 
 
 <a name="contact"></a>
